@@ -6,5 +6,5 @@ import ikobjcopy
 '''
 Test if the main functioin returns 0
 '''
-def main_test():
+def test_main():
     assert ikobjcopy.main() == 0
